@@ -1,6 +1,7 @@
 ## Ola pessoal eu sou o Richard Henrique! 😁
 
 Estou cursando Desenvolvimento de Sistemas no Grau tecnico e por fora venho aprendendo as 3 tecnologias abaixo.
+<br/>
 Amo essa area e pretendo seguir carreira, e futuramente me torna referencia nisso
 <!--
 **Livedriven/Livedriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
