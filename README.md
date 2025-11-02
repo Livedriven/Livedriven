@@ -1,8 +1,9 @@
 ## Ola pessoal eu sou o Richard Henrique! 😁
-
 Estou cursando Desenvolvimento de Sistemas no Grau tecnico e por fora venho aprendendo as 3 tecnologias abaixo.
 <br/>
-Amo essa área e pretendo seguir carreira, e futuramente me torna referencia nisso
+Amo essa área e pretendo seguir carreira, e futuramente tenho o objetivo de me torna referencia nisso.
+
+fatos legais (sobre mim): pratico jiu-jitsu, jogo xadrez, e gosto de ler
 <!--
 **Livedriven/Livedriven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
