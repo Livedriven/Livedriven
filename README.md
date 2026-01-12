@@ -1,7 +1,8 @@
 <h2>👋 Olá, eu sou Richard Henrique</h2>
 
 <p>
-Sou estudante de <strong>Desenvolvimento de Sistemas</strong> e desenvolvedor em formação, com foco em
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pelo
+<strong>Grau Técnico</strong> e desenvolvedor em formação, com foco em
 <strong>JavaScript e fundamentos da programação</strong>.<br/>
 Aprendo construindo projetos práticos, priorizando lógica, organização de código e entendimento real
 do que está acontecendo por trás das telas ⚙️🧠
@@ -18,7 +19,7 @@ Tenho o objetivo de evoluir profissionalmente na área de tecnologia e me tornar
 
 <ul>
   <li>Foco forte em lógica de programação e JavaScript puro</li>
-  <li>Projetos práticos para simular problemas reais</li>
+  <li>Aplicação prática dos conteúdos do curso técnico em projetos reais</li>
   <li>Menos “copiar e colar”, mais entender o porquê das coisas</li>
   <li>Evolução gradual, sem pular fundamentos</li>
 </ul>
@@ -56,12 +57,15 @@ Tenho o objetivo de evoluir profissionalmente na área de tecnologia e me tornar
 
 <br/><br/>
 
+<p>
+HTML • CSS • JavaScript <br/>
+DOM • lógica de programação • organização de código <br/>
+Node.js básico (import/export, módulos)
+</p>
+
 <hr/>
 
 <h3>🧠 Um pouco além do código</h3>
 
 <p>
-Pratico jiu-jitsu 🥋 (disciplina e constância),<br/>
-jogo xadrez ♟️ (pensamento estratégico),<br/>
-e gosto de leitura 📚 (aprendizado contínuo).
-</p>
+Pratico
