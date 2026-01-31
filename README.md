@@ -64,8 +64,3 @@ Node.js básico (import/export, módulos)
 </p>
 
 <hr/>
-
-<h3>🧠 Um pouco além do código</h3>
-
-<p>
-Pratico
