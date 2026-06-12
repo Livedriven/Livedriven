@@ -1,66 +1,80 @@
-<h2>👋 Olá, eu sou Richard Henrique</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663dad&height=115&section=header"/>
 
-<p>
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pelo
-<strong>Grau Técnico</strong> e desenvolvedor em formação, com foco em
-<strong>JavaScript e fundamentos da programação</strong>.<br/>
-Aprendo construindo projetos práticos, priorizando lógica, organização de código e entendimento real
-do que está acontecendo por trás das telas ⚙️🧠
-</p>
+<div align="center">
 
-<p>
-Tenho o objetivo de evoluir profissionalmente na área de tecnologia e me tornar referência através de
-<strong>consistência, estudo e prática diária</strong>.
-</p>
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=Livedriven&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
 
-<hr/>
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=Livedriven&layout=compact&count_weight=0&exclude_repo=Plataforma-Cursos,nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor,zine,github-readme-stats&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
 
-<h3>🧭 Como eu estudo e desenvolvo</h3>
+</div>
 
-<ul>
-  <li>Foco forte em lógica de programação e JavaScript puro</li>
-  <li>Aplicação prática dos conteúdos do curso técnico em projetos reais</li>
-  <li>Menos “copiar e colar”, mais entender o porquê das coisas</li>
-  <li>Evolução gradual, sem pular fundamentos</li>
-</ul>
+**Richard Henrique** — Desenvolvedor Front-End focado em construção de interfaces web funcionais e bem estruturadas, utilizando JavaScript, TypeScript e React.
 
-<hr/>
+Tenho interesse em produtos digitais que conectam tecnologia ao contexto real do usuário. Gosto de pensar na solução como um todo — da estrutura do layout à organização do estado e da persistência de dados — mesmo trabalhando no lado do cliente.
 
-<h3>🤖 Linguagens e Tecnologias</h3>
+Desenvolvi projetos como interfaces de gerenciamento de filas médicas, painéis administrativos em React, listas de tarefas com persistência local e páginas responsivas com foco em semântica e acessibilidade. Nesses projetos utilizei recursos do navegador como LocalStorage e IndexedDB para simular comportamentos que, em aplicações reais, seriam responsabilidade de um back-end.
 
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+Valorizo código limpo, componentes bem organizados e uma boa experiência de uso. Estou evoluindo continuamente e tenho interesse em avançar para integração com APIs reais e desenvolvimento back-end com Node.js.
 
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+---
 
-<img 
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+## Skills
 
-<br/><br/>
+<div align="center">
 
-<p>
-HTML • CSS • JavaScript <br/>
-DOM • lógica de programação • organização de código <br/>
-Node.js básico (import/export, módulos)
-</p>
+<img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=F05033" />
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 
-<hr/>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="left">
+
+[<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:richardhenriquedeabreuferreira@gmail.com)
+
+</div>
+
+---
+
+## Highlighted Projects
+
+<div align="center">
+
+<a href="https://github.com/Livedriven/medqueue-platform-frontend">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=medqueue-platform-frontend&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MedQueue" />
+</a>
+
+<a href="https://github.com/Livedriven/simple-admin">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=simple-admin&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Simple Admin" />
+</a>
+
+<a href="https://github.com/Livedriven/To-Do-List-simples">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=To-Do-List-simples&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="To-Do List" />
+</a>
+
+<a href="https://github.com/Livedriven/lista-de-compras">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=lista-de-compras&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lista de Compras" />
+</a>
+
+<a href="https://github.com/Livedriven/gerador-de-senhas">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=gerador-de-senhas&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Gerador de Senhas" />
+</a>
+
+<a href="https://github.com/Livedriven/lobo-selvagem-webpage">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=lobo-selvagem-webpage&show_owner=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lobo Selvagem Webpage" />
+</a>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663dad&height=120&section=footer"/>
