@@ -42,7 +42,7 @@ Valorizo código limpo, componentes bem organizados e uma boa experiência de us
 <div align="left">
 
 [<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:richardhenriquedeabreuferreira@gmail.com)
-
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />](https://www.linkedin.com/in/richard-henrique-06b945293/)
 </div>
 
 ---
