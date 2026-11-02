@@ -61,8 +61,8 @@ Valorizo código limpo, componentes bem organizados, testes e uma boa experiênc
 
 
 
-<a href="https://github.com/Livedriven/simple-admin">
-  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=simple-admin&show_owner=true&title_color=00f0ff&icon_color=0088ff&text_color=9fd8ff&bg_color=0a0f1f&border_color=0057ff" alt="Simple Admin" />
+<a href="https://github.com/Livedriven/mental-health-landing-page">
+  <img src="https://github-readme-stats-lime-ten-54.vercel.app/api/pin/?username=Livedriven&repo=mental-health-landing-page&show_owner=true&title_color=00f0ff&icon_color=0088ff&text_color=9fd8ff&bg_color=0a0f1f&border_color=0057ff" alt="mental-health-landing-page" />
 </a>
 
 <a href="https://github.com/Livedriven/To-Do-List-simples">
